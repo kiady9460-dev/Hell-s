@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "LIFE CONTROL PRO",
+    "slug": "life-control-pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.lifecontrolpro.app"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
